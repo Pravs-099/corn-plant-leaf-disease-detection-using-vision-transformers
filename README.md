@@ -26,17 +26,28 @@ Run the Streamlit app
 
 Upload a corn leaf image to get predictions
 Project structure
+
 Corn-Leaf-Disease-Detection/
 │
+
 ├── dataset/
+
 │   ├── train/
+
 │   ├── test/
+
 │
+
 ├── model/
+
 │   └── vit_model.h5
+
 │
-├── app.py              # Streamlit application
-├── train_model.ipynb   # Model training notebook
-├── requirements.txt    # Required libraries
+├── app.py      
+# Streamlit application
+├── train_model.ipynb  
+# Model training notebook
+├── requirements.txt  
+# Required libraries
 └── README.md
 
